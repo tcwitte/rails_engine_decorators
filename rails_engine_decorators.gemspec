@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = RailsEngineDecorators::VERSION
   s.authors     = ["Kunal Chaudhari", "Ryan Bigg", "Philip Arndt", "Antonio Tapiador"]
   s.email       = ["atapiador@dit.upm.es"]
-  s.homepage    = "https://github.com/atd/rails_engine_decorators"
+  s.homepage    = "https://github.com/tcwitte/rails_engine_decorators"
   s.summary     = "Extend Rails Engine's business logic (models, controllers, helpers, etc.) easily"
   s.description = "Extend Rails Engine's business logic (models, controllers, helpers, etc.) easily from your application or other engine."
   s.license     = 'MIT'
